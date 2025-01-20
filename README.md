@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 
 - 🌱 I’m currently working on: **[HypixLynk](https://github.com/your-repo-link)**, a Hypixel SkyBlock stats website using Node.js.
 - 💻 Tech I enjoy: JavaScript, Node.js, APIs, and web development.
-- 🌐 Website: [YourWebsite](https://yourwebsite.com) *(optional)*
-- ✉️ How to reach me: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 Website: [Aceist.nl](https://www.aceist.nl) *(optional)*
+- ✉️ How to reach me: [Discord](discordapp.com/users/495254597749702656)
 
 ---
 
