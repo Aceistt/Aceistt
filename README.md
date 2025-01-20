@@ -42,7 +42,6 @@ A sleek and powerful Hypixel SkyBlock stats website! 🚀
 - 🧠 Always curious about new web technologies and frameworks.
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me!
-## Hi there 👋
 
 <!--
 **Aceistt/Aceistt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
