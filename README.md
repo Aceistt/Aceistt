@@ -31,16 +31,13 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aceistt&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aceistt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aceistt&theme=radical)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aceistt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Aceistt&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aceistt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)   
 
 ---
 
 ## ❤️ Fun Facts
 
-- 🎮 I love playing Minecraft and exploring creative challenges.
+- 🎮 I play a lot of games.
 - 🤔 Always curious about new web technologies and frameworks.
 - 💛 Sharing knowledge and helping others in the coding community fuels my passion.
 
