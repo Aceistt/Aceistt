@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aceistt&theme=radical)](https://git.io/streak-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aceistt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Aceistt&theme=radical)  
-[![Aceist's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aceistt&theme=radical)](https://wakatime.com/@Aceistt)
 
 ---
 
